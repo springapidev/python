@@ -1,3 +1,8 @@
+
+#run 3 times
+#open browser
+#take a bbreak at every 10 seconds
+
 import time
 import webbrowser
 
