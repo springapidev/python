@@ -6,7 +6,7 @@ Pyton Download Link for Windows: https://www.python.org/ftp/python/3.6.3/python-
 Python Basic for Beginners:
 1. print("Hello Python.")
 
-output: Hello Python.
+      output: Hello Python.
 
 2.Indentation: 
 Python uses indentation for blocks, instead of curly braces. Both tabs and spaces are supported, but the standard indentation requires standard Python code to use four spaces. For example:
@@ -31,7 +31,7 @@ To define an integer, use the following syntax:
 myint = 7
 print(myint)
 
-output: 7
+            output: 7
 
 To define a floating point number, you may use one of the following notations:
 
@@ -40,9 +40,9 @@ print(myfloat)
 myfloat = float(7)
 print(myfloat)
 
-Output: 
-7.0
-7.0
+      Output: 
+      7.0
+      7.0
 
 Strings: 
 Strings are defined either with a single quote or a double quotes.
@@ -52,10 +52,10 @@ print(mystring)
 mystring = "hello"
 print(mystring)
 
-Output: 
+            Output: 
 
-hello
-hello
+            hello
+            hello
 
 The difference between the two is that using double quotes makes it easy to include apostrophes (whereas these would terminate the string if using single quotes)
 
@@ -63,9 +63,9 @@ mystring = "Don't worry about apostrophes"
 
 print(mystring)
 
-Output: 
+            Output: 
 
-Don't worry about apostrophes
+            Don't worry about apostrophes
 
 
 There are additional variations on defining strings that make it easier to include things such as carriage returns, backslashes and Unicode characters. These are beyond the scope of this tutorial, but are covered in the Python documentation.
@@ -82,7 +82,7 @@ world = "world"
 helloworld = hello + " " + world
 print(helloworld)
 
-Output: 
+      Output: 
 
-3
-hello world
+      3
+      hello world
